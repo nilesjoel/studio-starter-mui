@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "@emotion/cache": "latest",
+    "@emotion/css": "^11.11.2",
     "@emotion/react": "latest",
-    "@emotion/server": "latest",
+    "@emotion/server": "^11.11.0",
     "@emotion/styled": "latest",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
@@ -26,5 +27,6 @@
     "eslint": "latest",
     "eslint-config-next": "latest",
     "typescript": "latest"
-  }
+  },
+  "packageManager": "yarn@4.0.2"
 }
