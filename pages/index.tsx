@@ -19,7 +19,7 @@ export default function Home() {
         }}
       >
         <Typography variant="h4" component="h1" gutterBottom>
-          Material UI - Next.js example in TypeScript
+         Studio UI : TypeScript, NextJS, MUI,StyledComponents, 
         </Typography>
         <Link href="/about" color="secondary">
           Go to the about page
